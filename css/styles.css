@@ -11748,7 +11748,10 @@ html {
 
 
 .main-image{
-  margin-top: 20px;
-  padding: 55px;
-  padding-top: 70px;
+  /* margin-top: 20px; */
+  /* padding: 0px; */
+  /* padding-top: 70px; */
+  width: 100%;
+  height: auto;
+  padding-right: 80px;
 }
